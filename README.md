@@ -1,0 +1,4 @@
+# TimeCountApp-git
+TimeCountAppCompile.batを実行し、コンパイルを行ってください。
+Windowsに標準で搭載されているMSBuildを用いて、コンパイルを行っています。
+TimeCountAppCompile.bat内で記載されているMSBuildのパスは自信の環境に応じて適宜変更をお願いします。
